@@ -28,7 +28,8 @@ namespace Day9Problem
             Console.WriteLine("Enter 1 to Add Contact");
             Console.WriteLine("Enter 2 to View Contacts");
             Console.WriteLine("Enter 3 to Edit Contacts");
-            Console.WriteLine("Enter 4 to Exit");
+            Console.WriteLine("Enter 4 to Delete Contacts");
+            Console.WriteLine("Enter 5 to Exit");
 
         }
     }

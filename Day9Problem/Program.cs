@@ -112,6 +112,24 @@ namespace Day9Problem
                         break;
 
                     case 4:
+                        Console.WriteLine("Enter Name Which You Want To Delete");
+                        string delete = Console.ReadLine();
+                        AddressBook contact = null;
+
+                        foreach (AddressBook Info in list)
+                        {
+                            if (Info.FirstName == delete)
+                            {
+                                contact = Info;
+                                list.Remove(contact);
+                            }
+                            break;
+                        }
+                        Console.WriteLine(" Deleted ");
+                        break;
+
+
+                    case 5:
                         System.Environment.Exit(0);
                         break;
                 }
