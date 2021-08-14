@@ -38,6 +38,13 @@ namespace Day9Problem
                         break;
 
                     case 2:
+                        foreach (AddressBook Info in list)
+                        {
+                            Console.WriteLine(Info.FirstName + ", " + Info.LastName + ", " + Info.Address + ", " + Info.City + ", " + Info.State + ", " + Info.PhoneNumber + ", " + Info.Zip + ", " + Info.Email);
+                        }
+                        break;
+
+                    case 3:
                         System.Environment.Exit(0);
                         break;
                 }
