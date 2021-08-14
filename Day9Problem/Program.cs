@@ -45,6 +45,73 @@ namespace Day9Problem
                         break;
 
                     case 3:
+                        Console.WriteLine(" Enter Name to Edit else leave blank ");
+                        string Name = Console.ReadLine();
+                        
+                        foreach (AddressBook Info in list)
+                            if (Name == (Info.FirstName))
+                            {
+                                Console.WriteLine("Enter new FName");
+                                string NewName = Console.ReadLine();
+                                Info.FirstName = NewName;
+
+                            }
+                            else if (Name == (Info.LastName))
+                            {
+                                Console.WriteLine("Enter new LstName");
+                                string NewLstName = Console.ReadLine();
+                                Info.LastName = NewLstName;
+
+                            }
+                            else if (Name == (Info.Address))
+                            {
+                                Console.WriteLine("Enter new Address");
+                                string NewAddress = Console.ReadLine();
+                                Info.Address = NewAddress;
+
+                            }
+                            else if (Name == (Info.City))
+                            {
+                                Console.WriteLine("Enter new City");
+                                string NewCity = Console.ReadLine();
+                                Info.City = NewCity;
+
+                            }
+                            else if (Name == (Info.State))
+                            {
+                                Console.WriteLine("Enter new State");
+                                string NewState = Console.ReadLine();
+                                Info.State = NewState;
+
+                            }
+
+
+                            else if (Name == (Info.PhoneNumber))
+                            {
+                                Console.WriteLine("Enter new Number");
+                                string NewNumber = Console.ReadLine();
+                                Info.PhoneNumber = NewNumber;
+                            }
+                            else if (Name == (Info.Zip))
+                            {
+                                Console.WriteLine("Enter new Zip");
+                                string NewZip = Console.ReadLine();
+                                Info.Zip = NewZip;
+
+                            }
+                            else if (Name == (Info.Email))
+                            {
+                                Console.WriteLine("Enter new Email");
+                                String NewEmail = Console.ReadLine();
+                                Info.Email = NewEmail;
+
+                            }
+
+
+                        Console.WriteLine(" Edited ");
+                        break;
+
+                    case 4:
                         System.Environment.Exit(0);
                         break;
                 }
