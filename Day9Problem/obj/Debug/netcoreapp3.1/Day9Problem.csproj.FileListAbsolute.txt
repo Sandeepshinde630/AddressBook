@@ -1,0 +1,13 @@
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\bin\Debug\netcoreapp3.1\Day9Problem.exe
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\bin\Debug\netcoreapp3.1\Day9Problem.deps.json
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\bin\Debug\netcoreapp3.1\Day9Problem.runtimeconfig.json
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\bin\Debug\netcoreapp3.1\Day9Problem.runtimeconfig.dev.json
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\bin\Debug\netcoreapp3.1\Day9Problem.dll
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\bin\Debug\netcoreapp3.1\Day9Problem.pdb
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\obj\Debug\netcoreapp3.1\Day9Problem.csproj.AssemblyReference.cache
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\obj\Debug\netcoreapp3.1\Day9Problem.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\obj\Debug\netcoreapp3.1\Day9Problem.AssemblyInfo.cs
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\obj\Debug\netcoreapp3.1\Day9Problem.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\obj\Debug\netcoreapp3.1\Day9Problem.dll
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\obj\Debug\netcoreapp3.1\Day9Problem.pdb
+C:\Users\Sandeep\Desktop\CSharp\Day9Problem\Day9Problem\obj\Debug\netcoreapp3.1\Day9Problem.genruntimeconfig.cache
